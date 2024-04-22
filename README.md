@@ -1,7 +1,8 @@
 # GoDesk 介绍
 >GoDesk 基于Wails2+Vue+Go实现的桌面应用快速开发模板。集成了GinWeb服务、文件上传下载和预览、SQLite数据库操作、应用日志、Windows API使用、系统壁纸设置、Go代码调用、DLL文件使用、ElementUI、Vue 路由、登录、菜单组件等。
 
-下载体验版：https://gitee.com/xbuntu/godesk/releases
+下载体验版[github]：https://github.com/xbuntu/godesk/releases
+下载体验版[gitee]：https://gitee.com/xbuntu/godesk/releases
 
 # Wails官方开发手册
 >GoDesk 模板只提供了wails部分功能的实现方法，实现更多功能
