@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=GoDesk
+Exec=/usr/local/bin/GoDesk %U
+Terminal=false
+Type=Application
+Icon=GoDesk
+Comment=wails的基本演示
+Categories=Office;

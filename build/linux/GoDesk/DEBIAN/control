@@ -1,0 +1,9 @@
+Package: GoDesk
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: amd64
+Depends: libwebkit2gtk-4.0-37
+Maintainer: 北极大鲤鱼 1060901242@qq.com
+Homepage: https://wails.io/
+Description: wails的基本演示
